@@ -1,7 +1,8 @@
 - 👋 Hi, I'm @lucusowl
 
 - 👀 I’m interested in ...
-  - Math with ProblemSolving
+  - Data Librarian
+  - Math with Problem Solving
   
 - 🌱 I’m currently learning ...
   - looking for some hobbies
